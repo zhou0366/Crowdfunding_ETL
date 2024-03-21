@@ -22,7 +22,7 @@ CREATE TABLE "campaign" (
     "description" varchar   NOT NULL,
     "goal" money   NOT NULL,
     "pledged" money   NOT NULL,
-    "outcome" string   NOT NULL,
+    "outcome" varchar   NOT NULL,
     "backers_count" int   NOT NULL,
     "country" varchar(2)   NOT NULL,
     "currency" varchar(3)   NOT NULL,

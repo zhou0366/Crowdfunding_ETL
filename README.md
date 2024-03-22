@@ -16,7 +16,7 @@ This is the campaign dataframe ran in the Jupyter notebook.
 
 ![image](https://github.com/zhou0366/Crowdfunding_ETL/assets/153146489/6a4d9b9b-bbd6-4bd4-9d6b-1234bd5c3e88)
 
-This is the contacts dataframe ran the Jupyter notebook.
+This is the contacts dataframe ran in the Jupyter notebook.
 
 ![image](https://github.com/zhou0366/Crowdfunding_ETL/assets/153146489/8713b53d-6a08-4caf-8085-7c86da76b8dd)
 

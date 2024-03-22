@@ -2,11 +2,11 @@
 
 ## Step 1. DataFrame creation
 
-
+For loading and transforming the data in the starting files, option 1 for using Python dictionaries was used. DataFrames with columns and datatypes were created as instructed in the provided Jupyter notebook starter code. The resulting four DataFrames for campaign, category, subcategory, and contacts are saved as CSV files.
 
 ### Outputs
 
-The four CSV files generated in the jupyter notebooks are saved into the "Resources" folder.
+The four CSV files "campaign.csv", "category.csv", "subcategory.csv", and "contacts.csv" generated in the Jupyter notebooks are saved into the "Resources" folder.
 
 ## Step 2. Crowdfunding Database
 
@@ -14,7 +14,7 @@ The ERD created using QuickDBD is shown below. Tables "campaign" with pk "cf_id"
 
 ![project 2 QuickDBD-export](https://github.com/zhou0366/Crowdfunding_ETL/assets/22827830/312510e5-559d-4991-9f4b-bf261d6a1ae2)
 
-A schema is used to create the database and tables as shown in the ERD and each table is populated by importing data from CSV outputs from step 1. To demonstrate that the tables have been correctly created and populated, a select query was performed on each table.
+A schema is used to create the database and tables as shown in the ERD and each table is populated by importing data from CSV outputs from step 1. The category, subcategory, and contact tables are populated before the campaign table as they contain foreign keys for the campaign table. To demonstrate that the tables have been correctly created and populated, a select query was performed on each table.
 
 ![category](https://github.com/zhou0366/Crowdfunding_ETL/assets/22827830/e62fb2f3-d388-4a8f-b5c4-2d5d8c9f263e)
 

@@ -48,7 +48,7 @@ Then, a query is created to select all columns from all tables, where contacts, 
 
 ### Outputs
 
-The "QuickDBD" contains the ERD sketch "project 2 QuickDBD-export.png". The database schema shown is exported as "project 2 QuickDBD-export.sql" which was then used to create the database and tables.
+The "QuickDBD" contains the ERD sketch "project 2 QuickDBD-export.png". The database schema shown is exported as "crowdfunding_db_schema.sql" which was then used to create the database and tables.
 
 The "Table Screenshots" folder contains screenshots of queries executed on the tables created using the database schema and imported CSV files created during step 1. Additionally, "combined_join.png" demonstrates a query selecting all columns from all tables where contacts are joined to campaign by contact_id, category is joined to campaign by campaign_id, and subcategory is joined to campaign by subcategory_id.
 

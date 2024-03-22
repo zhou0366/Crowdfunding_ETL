@@ -4,7 +4,7 @@
 
 For loading and transforming the data in the starting files, option 1 for using Python dictionaries was used. DataFrames with columns and datatypes were created as instructed in the provided Jupyter notebook starter code. 
 
-Below is category dataframe ran in our Jupyter notebook.
+This is the category dataframe ran in the Jupyter notebook.
 
 ![image](https://github.com/zhou0366/Crowdfunding_ETL/assets/153146489/48910e93-cace-443c-af28-04ad64e35bdf)
 
@@ -16,7 +16,7 @@ This is the campaign dataframe ran in the Jupyter notebook.
 
 ![image](https://github.com/zhou0366/Crowdfunding_ETL/assets/153146489/6a4d9b9b-bbd6-4bd4-9d6b-1234bd5c3e88)
 
-This is the contacts dataframe ran in Jupyter notebook.
+This is the contacts dataframe ran the Jupyter notebook.
 
 ![image](https://github.com/zhou0366/Crowdfunding_ETL/assets/153146489/8713b53d-6a08-4caf-8085-7c86da76b8dd)
 
